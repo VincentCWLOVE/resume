@@ -1,6 +1,6 @@
-# vue1
+# Vincent's resume
 
-> A Vue.js project
+> 我的个人简历，因为时间匆忙，只写了十分简单的版本
 
 ## Build Setup
 
@@ -15,4 +15,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
