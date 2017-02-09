@@ -1,6 +1,6 @@
 {
-  "name": "vue1",
-  "description": "A Vue.js project",
+  "name": "Vincent's resume",
+  "description": "我的个人简历，因为时间匆忙，只写了十分简单的版本",
   "version": "1.0.0",
   "author": "vincent <438419787@qq.com>",
   "private": true,
